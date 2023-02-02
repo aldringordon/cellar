@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "question": "If you were a drink, what would you be and why?",
+            "options": [
+                "I would be a classic cocktail", 
+                "I would be a sweet and fruity drink", 
+                "I would be a strong and bold drink", 
+                "I would be a drink that is light and effervescent"
+            ]
+        },
+        {
+            "question": "Are you a fan of surprises or do you prefer to stick with what you know?",
+            "options": [
+                "I am a fan of surprises", 
+                "I prefer to stick with what I know", 
+                "Don't care", 
+                "I can go either way"
+            ]
+        },
+        {
+            "question": "Do you prefer drinks that are sweet and fruity, or dry and complex?",
+            "options": [
+                "I prefer sweet and fruity drinks", 
+                "I prefer dry and complex drinks", 
+                "I prefer a mix of both", 
+                "I don't care"
+            ]
+        },
+        {
+            "question": "Do you like to make a bold statement, or keep things understated?",
+            "options": [
+                "I like to make a bold statement", 
+                "I like to keep things understated", 
+                "I can go either way", 
+                "I don't care"
+            ]
+        },
+        {
+            "question": "Do you have a sweet tooth or are you a savory snacker?",
+            "options": [
+                "I have a sweet tooth", 
+                "I am a savory snacker", 
+                "I can go either way", 
+                "I don't have a preference"
+            ]
+        },
+        {
+            "question": "Are you more of a wild card or a reliable classic?",
+            "options": [
+                "I am more of a wild card", 
+                "I am more of a reliable classic", 
+                "I can go either way", 
+                "Don't care"
+            ]
+        },
+        {
+            "question": "Do you like a drink that's light and effervescent, or rich and full-bodied?",
+            "options": [
+                "I like a drink that is light and effervescent", 
+                "I like a drink that is rich and full-bodied", 
+                "I like a mix of both", 
+                "Don't care"
+            ]
+        },
+        {
+            "question": "Are you a fan of fruity and floral scents, or earthy and woody aromas?",
+            "options": [
+                "I am a fan of fruity and floral scents", 
+                "I am a fan of earthy and woody aromas", 
+                "I can go either way", 
+                "Dont'care"
+            ]
+        },
+        {
+            "question": "Do you prefer a drink that's crisp and refreshing, or bold and memorable?",
+            "options": [
+                "I prefer a drink that is crisp and refreshing", 
+                "I prefer a drink that is bold and memorable", 
+                "I prefer a mix of both", 
+                "Don't care"
+            ]
+        },
+        {
+            "question": "Are you a fan of fruity and floral scents, or earthy and woody aromas?",
+            "options": [
+                "Fan of fruity and floral scents", 
+                "Fan of earthy and woody aromas", 
+                "Can go either way", 
+                "Don't care"
+            ]
+        },
+        {
+            "question": "Do you prefer a drink that's crisp and refreshing, or bold and memorable?",
+            "options": [
+                "Crisp and refreshing", 
+                "Bold and memorable", 
+                "A mix of both", 
+                "Indifferent"
+            ]
+        },
+        {
+            "question": "Are you a fan of classic cocktails, or do you like to mix it up and try new things?",
+            "options": [
+                "Fan of classic cocktails", 
+                "Likes to mix it up and try new things", 
+                "Can go either way", 
+                "Indifferent"
+            ]
+        }
+    ]
+}
