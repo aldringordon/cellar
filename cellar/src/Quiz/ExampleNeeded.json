@@ -1,0 +1,29 @@
+{
+   "options": [
+       {
+           "option": "I would be a classic cocktail",
+           "categories": [
+                {"Classic and Reliable": 2},
+                {"Crisp and Refreshing": 1}
+           ]
+       },
+       {
+            "option": "I would be a sweet and fruity drink",
+            "categories": [
+                {"Sweet and Fruity": 2},
+                {"Sweet": 1},
+                {"Fruity and Floral": 1}
+            ]
+        },
+        {
+            "option": "I would be a drink that is light and effervescent",
+            "categories": [
+                {"Light and Effervescent": 2}
+            ]
+        },
+        {
+            "option": "Don't care",
+            "categories": []
+        }
+   ]
+}

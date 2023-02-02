@@ -41,14 +41,14 @@ export default function Quiz() {
     <View className="relative flex justify-center items-center bg-zinc-100 w-screen h-screen space-y-10">
       
       {!finished ?
-      <View className="bg-red-200 rounded-lg w-80 h-40 justify-center items-center">
-        <Text className='text-xl'>{question.question}</Text>
+      <View className="rounded-lg w-80 h-40 justify-center items-center">
+        <Text className='text-xl font-light'>{question.question}</Text>
       </View>
       : null }
       
       {!finished ?
       <View 
-      className="bg-blue-200 rounded-lg w-60">
+      className="rounded-lg w-60">
         <Button
         title={question.options[0]}
         color={'black'}
@@ -61,7 +61,7 @@ export default function Quiz() {
       
       {!finished ?
       <View
-      className="bg-blue-200 rounded-lg w-60">
+      className="rounded-lg w-60">
         <Button
         title={question.options[1]}
         color={'black'}
@@ -74,7 +74,7 @@ export default function Quiz() {
       
       {!finished ?
       <View 
-      className="bg-blue-200 rounded-lg w-60">
+      className="rounded-lg w-60">
         <Button
         title={question.options[2]}
         color={'black'}
@@ -87,7 +87,7 @@ export default function Quiz() {
       
       {!finished ?
       <View 
-      className="bg-blue-200 rounded-lg w-60">
+      className="rounded-lg w-60">
         <Button
         title={question.options[3]}
         color={'black'}
@@ -100,22 +100,22 @@ export default function Quiz() {
       
       {finished?
       <View className="rounded-lg w-80 justify-center items-center space-y-[30px]">
-        <Text className='text-xl text-center text-orange-800'>You're wine profile is:</Text>
+        <Text className='text-xl text-center font-light'>You're wine profile is:</Text>
         
-        <Text className='text-3xl text-center text-blue-500 font-bold'>
+        <Text className='text-3xl text-center'>
           {wineCategory}
         </Text>
         
-        <Text className='text-lg text-center text-orange-600'>
+        <Text className='text-lg text-center font-extralight'>
           Reccomendations:
         </Text>
-        <Text className='text-2xl text-center text-orange-400'>
+        <Text className='text-2xl text-center font-light'>
           {wineRecommendations[0]}
         </Text>
-        <Text className='text-2xl text-center text-orange-400'>
+        <Text className='text-2xl text-center font-light'>
           {wineRecommendations[1]}
         </Text>
-        <Text className='text-2xl text-center text-orange-400'>
+        <Text className='text-2xl text-center font-light'>
           {wineRecommendations[2]}
         </Text>
       </View>
@@ -123,7 +123,7 @@ export default function Quiz() {
 
       {finished?
       <View 
-      className="bg-yellow-300 rounded-lg w-40 h-[60px] justify-center items-center">
+      className="rounded-lg w-40 h-[60px] justify-center items-center">
         <Button
         title="Reset"
         color={'black'}
