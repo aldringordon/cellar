@@ -6,7 +6,7 @@ import Quiz from './src/Quiz/Quiz';
 export default function App() {
   return (
     <View className="flex-auto items-center justify-center bg-zinc-400">
-      <Quiz question={'TestQuestion'}/>
+      <Quiz/>
     </View>
   );
 }
