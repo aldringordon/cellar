@@ -1,0 +1,13 @@
+{
+    "Sweet and Fruity": ["Riesling", "Moscato", "White Zinfandel"],
+    "Classic and Reliable": ["Cabernet Sauvignon", "Pinot Noir", "Chardonnay"],
+    "Dry and Complex": ["Pinot Grigio", "Sauvignon Blanc", "Syrah"],
+    "Bold and Full-Bodied": ["Merlot", "Malbec", "Zinfandel"],
+    "Sweet": ["Port", "Sherry", "Ice Wine"],
+    "Eclectic and Unique": ["Viognier", "Grüner Veltliner", "Petit Verdot"],
+    "Light and Effervescent": ["Champagne", "Prosecco", "Cava"],
+    "Fruity and Floral": ["Gewürztraminer", "Rosé", "Viognier"],
+    "Crisp and Refreshing": ["Sauvignon Blanc", "Pinot Grigio", "Riesling"],
+    "New and Unique": ["Chenin Blanc", "Tempranillo", "Vermentino"]
+  }
+  
